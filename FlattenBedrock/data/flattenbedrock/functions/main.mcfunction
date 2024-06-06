@@ -1,0 +1,1 @@
+execute as @a at @s run fill ~-8 -59 ~-8 ~8 -63 ~8 minecraft:deepslate replace minecraft:bedrock
